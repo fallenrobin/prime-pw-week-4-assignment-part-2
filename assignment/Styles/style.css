@@ -2,5 +2,15 @@ header{
   background-color: #e064d6
 }
 .info {
-  background-color: #348493
+  background-color: #2694bf
+  /* color: #ec3699 */
+}
+h2{
+  color: #ec3699
+}
+.caption{
+  background-color: #2694bf
+}
+h3{
+  color: #ec3699
 }
